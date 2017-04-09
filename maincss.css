@@ -1,0 +1,55 @@
+﻿.maindata{
+    padding: 25px;
+    color: red;
+    font-size : 30px;
+}
+
+.btnSearch{
+    position: relative;
+    display: block;
+    padding: 19px 39px 18px 39px;
+    color: #FFF;
+    margin: 0 auto;
+    background: #1abc9c;
+    font-size: 18px;
+    text-align: center;
+    font-style: normal;
+    width: 200px;
+    border: 1px solid #16a085;
+    border-width: 1px 1px 3px;
+    margin-bottom: 10px;
+}
+
+.inpDa{
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+    outline: none;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 100%;
+    background: #fff;
+    margin-bottom: 2%;
+    border: 1px solid #ccc;
+    padding: 1%;
+    color: #555;
+    font: 95% Arial, Helvetica, sans-serif;
+}
+
+.aData{
+    text-decoration: none;
+    color: orangered;
+}
+
+td{
+    text-align:center; 
+    vertical-align:middle;
+}
+
+td:hover{
+    background-color:silver;
+    color : white;
+}
+
+
